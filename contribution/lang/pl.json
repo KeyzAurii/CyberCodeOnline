@@ -1,7 +1,7 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Spis",
+ 	 	 	"trans": "Ekwipunek",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
@@ -28,7 +28,7 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Możesz kupić tutaj globalne przedmioty",
+ 	 	 	 	"trans": "Możesz tu kupić globalne przedmioty",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
@@ -38,7 +38,7 @@
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kosmetyczna cyberwear",
+ 	 	 	 	"trans": "Kosmetyka cyberwear",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
@@ -80,7 +80,7 @@
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 5, aby uzyskać dostęp do terminalu",
+ 	 	 	 	"trans": "Musisz uzyskać 5 poziom, aby uzyskać dostęp do terminalu",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
@@ -92,7 +92,7 @@
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank of Arasaki",
+ 	 	 	 	"trans": "Bank Arasaki",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
@@ -110,7 +110,7 @@
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 10, aby uzyskać dostęp do stacji kalibracyjnej",
+ 	 	 	 	"trans": "Musisz uzyskać 10 poziom, aby uzyskać dostęp do stacji kalibracyjnej",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	}
  	 	},
@@ -124,7 +124,7 @@
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być co najmniej 10, aby uzyskać dostęp do kupca",
+ 	 	 	 	"trans": "Musisz uzyskać 10 poziom, aby uzyskać dostęp do kupca",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -179,7 +179,7 @@
  	 	},
  	 	"medical": {
  	 	 	"name": {
- 	 	 	 	"trans": "nauki medyczne",
+ 	 	 	 	"trans": "umiejętność medyczna",
  	 	 	 	"eng": "medical science"
  	 	 	}
  	 	},
@@ -191,13 +191,13 @@
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "Umiejętność smaczna",
+ 	 	 	 	"trans": "Umiejętność Przedmuchu",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "Umiejętność górnicza",
+ 	 	 	 	"trans": "Umiejętność Górnicza",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -205,7 +205,7 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La City Center",
+ 	 	 	 	"trans": "Centrum Miasta Shangri-La",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
@@ -218,7 +218,7 @@
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Rozpocznij przygodę na Epic Loot tutaj",
+ 	 	 	 	 	"trans": "Rozpocznij przygodę i zbierz epickie przedmioty tutaj",
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
@@ -264,7 +264,7 @@
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Wróć do centrum Shangri-La City",
+ 	 	 	 	 	"trans": "Wróć do Centrum Miasta Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
